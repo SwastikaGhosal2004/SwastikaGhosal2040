@@ -26,14 +26,19 @@ Currently, I am strengthening my programming fundamentals and analytical thinkin
 
 ---
 
-## Skills
-Python 
-C
-C++
-Java
-HTML
-CSS
-Data Structures and Algorithms (Learning)
+## Tech Skills
+
+### Programming Languages
+Python | JavaScript | Java | C++ | C
+
+### Web Development
+HTML5 | CSS3 | JavaScript
+
+### Data Analytics
+NumPy | Pandas | SQL | Tableau
+
+### Tools and Platforms
+Git | GitHub | VS Code
 
 ---
 
