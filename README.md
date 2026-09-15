@@ -3,6 +3,8 @@
 B.Tech (CSIT) Student  
 University of Engineering and Management, Kolkata  
 
+Ex-AoTian | Drop AOT Star of 2nd Year
+
 Aspiring Data Analyst | Competitive Coding Enthusiast
 
 ---
